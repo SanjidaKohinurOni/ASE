@@ -64,7 +64,7 @@ link of SonarCloud: https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_
 
    buil.py - Generated files : (https://github.com/SanjidaKohinurOni/ASE/tree/main/HigherStudy/reports)
    
-   setup.py: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/setup.py)
+   setup.py: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/setup.py) and (https://github.com/SanjidaKohinurOni/ASE/tree/main/HigherStudy/Higher.egg-info)
    
    pyproject.toml: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/pyproject.toml)
 
