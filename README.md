@@ -36,8 +36,6 @@ link of SonarCloud: https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_
 
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
 
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=coverage)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
-
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
 
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
@@ -51,3 +49,7 @@ link of SonarCloud: https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
 
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
+
+
+5. Clean Code Development: Clean code is a reader-focused development style that produces software that's easy to write, read and maintain.
+     - Using docstrings: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L22)
