@@ -26,3 +26,8 @@ https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/use_case.png
 
 - State Diagram: The link is in given below:
 https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/state.png
+
+
+4. SonarCloud is a cloud-based clean code (code quality and security) service that is free for open source projects and offers a free trial for private projects.
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=bugs)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
