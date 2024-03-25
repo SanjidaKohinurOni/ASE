@@ -62,11 +62,11 @@ link of SonarCloud: https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_
 
 6. Build Management: Build management is a critical aspect of modern software development, especially with the adoption of continuous integration and continuous delivery (CI/CD) practices. It involves collecting, compiling, testing, and deploying software assets to facilitate the release process.
 
-   buil.py - Generated files : (https://github.com/SanjidaKohinurOni/ASE/tree/main/HigherStudy/reports)
+   **build.py** - Generated files : (https://github.com/SanjidaKohinurOni/ASE/tree/main/HigherStudy/reports) and (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/build.py)
    
-   setup.py: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/setup.py) and (https://github.com/SanjidaKohinurOni/ASE/tree/main/HigherStudy/Higher.egg-info)
+   **setup.py**: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/setup.py) and (https://github.com/SanjidaKohinurOni/ASE/tree/main/HigherStudy/Higher.egg-info)
    
-   pyproject.toml: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/pyproject.toml)
+   **pyproject.toml**: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/pyproject.toml)
 
 8. Continuous Delivery: Continuous Delivery is a software development method that automatically builds, tests, and prepares code changes for a production release .
 
