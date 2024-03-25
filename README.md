@@ -89,8 +89,8 @@ link of SonarCloud: https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_
       - 1. Higher order functions: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L55)
       - 2. Function as return : (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L59)
       - 3. Higher order function: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L71)
-        4. Function as parameter : (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L75)
-        5. Mostly side effect free function: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L16),     (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L34)
-        6. Anonymous Functions: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L43)
+      - 4. Function as parameter : (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L75)
+      - 5. Mostly side effect free function: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L16),     (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L34)
+      - 6. Anonymous Functions: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L43)
 
    
