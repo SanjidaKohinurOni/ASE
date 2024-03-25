@@ -30,4 +30,24 @@ https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/state.png
 
 4. SonarCloud is a cloud-based clean code (code quality and security) service that is free for open source projects and offers a free trial for private projects.
 
+link of SonarCloud: https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE
+
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=bugs)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=coverage)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
+
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
+
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
+
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
+
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
+
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
+
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
+
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=SanjidaKohinurOni_ASE&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE)
