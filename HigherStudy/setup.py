@@ -4,11 +4,11 @@ setup(
     name="Higher", 
     version="0.1.0",
     author="Your Name",
-    author_email="your.email@example.com",
+    author_email="s.k.oni0894@gmail.com",
     description="A simple task for Advanced Software Engineer",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="http://github.com/yourusername/your_project",  # Replace with your URL
+    url="https://github.com/SanjidaKohinurOni/ASE/edit/main/HigherStudy",  
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
