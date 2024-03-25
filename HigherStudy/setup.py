@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="Higher", 
     version="0.1.0",
-    author="Your Name",
+    author="Oni",
     author_email="s.k.oni0894@gmail.com",
     description="A simple task for Advanced Software Engineer",
     long_description=open('README.md').read(),
