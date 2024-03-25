@@ -78,7 +78,7 @@ link of SonarCloud: https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_
 
 10. IDE: I have used VS code. My favourite shortcuts:
 
-     1. Ctrl + Shift + C to cpy document
+     1. Ctrl + Shift + C to copy document
      2. Ctrl + Alt+ N - commit
      3. Ctrl + - for toggle the terminal
   
