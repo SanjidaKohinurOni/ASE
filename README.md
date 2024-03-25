@@ -53,3 +53,9 @@ link of SonarCloud: https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_
 
 5. Clean Code Development: Clean code is a reader-focused development style that produces software that's easy to write, read and maintain.
      - Using docstrings: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L22)
+     - Error handing & exception: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L34)
+     - indention code: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L9)
+     - meaningful variable + method name: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L64)
+     - Import all libaries on the top: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/project/model.py#L1)
+  
+     More 10 points link: ()
