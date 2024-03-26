@@ -17,15 +17,16 @@ https://github.com/SanjidaKohinurOni/ASE/commits/main/
              - USE CASE DIAGRAM
              - STATE DIAGRAM
             
-            
-    - Activity diagram: the link is in given below:
+
+- Activity diagram: the link is in given below:
     https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/acitivity_diagram.png
     
-    - Use Case Diagram: The link is in given below:
+- Use Case Diagram: The link is in given below:
     https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/use_case.png
     
-    - State Diagram: The link is in given below:
+- State Diagram: The link is in given below:
     https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/state.png
+
 
 
 
