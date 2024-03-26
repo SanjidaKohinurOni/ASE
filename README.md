@@ -19,7 +19,7 @@ https://github.com/SanjidaKohinurOni/ASE/commits/main/
             
             
 - Activity diagram: the link is in given below:
-https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/activity.png
+https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/acitivity_diagram.png
 
 - Use Case Diagram: The link is in given below:
 https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/use_case.png
