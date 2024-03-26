@@ -18,14 +18,14 @@ https://github.com/SanjidaKohinurOni/ASE/commits/main/
              - STATE DIAGRAM
             
             
-- Activity diagram: the link is in given below:
-https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/acitivity_diagram.png
-
-- Use Case Diagram: The link is in given below:
-https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/use_case.png
-
-- State Diagram: The link is in given below:
-https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/state.png
+    - Activity diagram: the link is in given below:
+    https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/acitivity_diagram.png
+    
+    - Use Case Diagram: The link is in given below:
+    https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/use_case.png
+    
+    - State Diagram: The link is in given below:
+    https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/UML/state.png
 
 
 
