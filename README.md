@@ -29,8 +29,13 @@ https://github.com/SanjidaKohinurOni/ASE/commits/main/
 
 
 
+3. Domain-driven design is a major software design approach, focusing on modeling software to match a domain according to input from that domain's experts. Under domain-driven design, the structure and language of software code should match the business domain
 
-4. Metrics:  SonarCloud is a cloud-based clean code (code quality and security) service that is free for open source projects and offers a free trial for private projects.
+   - Event diagram: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/ddd/storming.png)
+   - core diagram: (https://github.com/SanjidaKohinurOni/ASE/blob/main/HigherStudy/ddd/core.png)
+
+
+5. Metrics:  SonarCloud is a cloud-based clean code (code quality and security) service that is free for open source projects and offers a free trial for private projects.
 
 link of SonarCloud: https://sonarcloud.io/summary/new_code?id=SanjidaKohinurOni_ASE
 
